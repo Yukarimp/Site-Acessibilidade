@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #ffc107;
     --alto-contraste-fundo: #212529;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
@@ -97,9 +97,9 @@ section {
 
 h2 {
     font-family: 'Bebas Neue', serif;
-    font-size: 3em;
+    font-size: 4em;
     font-style: normal;
-    color: var(#ffcb2f);
+    color: var(--laranja-claro);
 }
 
 #galeria {
