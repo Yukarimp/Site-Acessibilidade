@@ -97,9 +97,9 @@ section {
 
 h2 {
     font-family: 'Bebas Neue', serif;
-    font-size: 2.5em;
+    font-size: 3em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(#ffcb2f);
 }
 
 #galeria {
